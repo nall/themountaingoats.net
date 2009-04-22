@@ -1,3 +1,7 @@
+04.21.09
+- moving to github.com for further change revisions.
+  http://github.com/nall/themountaingoats.net
+
 04.13.09
 - fixed typo in korean bird paintings, thx kate
 
