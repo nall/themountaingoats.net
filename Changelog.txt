@@ -1,3 +1,6 @@
+07.01.09
+- narakaloka fix, thx kate
+
 04.21.09
 - moving to github.com for further change revisions.
   http://github.com/nall/themountaingoats.net
