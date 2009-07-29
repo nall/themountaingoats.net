@@ -1,0 +1,547 @@
+07.22.09
+- fresh berries for you fix, thx natz
+- going to malibu fix, thx david driscoll
+
+07.01.09
+- narakaloka fix, thx kate
+
+04.21.09
+- moving to github.com for further change revisions.
+  http://github.com/nall/themountaingoats.net
+
+04.13.09
+- fixed typo in korean bird paintings, thx kate
+
+04.12.09
+- fixed typo in the cane fields lyrics, thx natz
+
+04.09.09
+- fixed typo in palmcorder yajna lyric headline, thx specs
+
+03.19.09
+- lyric fix in straight six thanks to wild creature
+
+02.20.09
+- HGS lyric fixes thanks to mrglass
+
+02.19.09
+- added martial arts weekend to database
+- completed HP. thx to mike/cali for lyrics/image
+
+02.15.09
+- added new songs: I John 4:16, Sign of the Crow 2, I Ain't Livin' Like This
+  for Long, Here I Am, Quien Como Tu -- thx caliclimber
+
+02.10.09
+- added lyrics/db entries for my inner joan crawford vehicle and surrounded --
+  thx caliclimber and foolishc and shockhorror
+
+01.31.09
+- fixed typo in datve -- thanks jots
+
+01.14.09
+- fixed lyrics on if you see light -- thanks mtngrl
+
+01.04.09
+- fixed lyrics to pure crystal -- thanks scotlanded
+
+12.28.08
+- fixed lyric fix on distant stations. -- thanks scotlanded
+
+12.21.08
+- fixed birthday cake song title
+- fixed spelling of tanita tikaram's name
+
+10.17.08
+- satanic messiah added (html and database). -- thanks to missy for
+  transcription
+
+08.29.08
+- lyric fixes in yoyo 12"s -- thanks joel feil
+
+08.06.08
+- lyric change for korean bird paintings -- thanks missy.
+
+05.06.08
+- lyric for for love hymn to aphrodite thanks to robert betts
+
+04.30.08
+- fixes for corkscrewed -- thanks christopher
+
+04.29.08
+- s/bedroom/bedside/ -- thanks christopher
+
+03.20.08
+- if england were fixes
+
+01.31.08
+- yam typo fixes -- thanks #tMG
+
+01.23.08
+- fixed history of the church lyrics thanks to #tMG
+
+12.26.07
+- added heretic pride demo songs
+
+12.11.07
+- fixed title of protein source
+- fix typos in the birthday cake song
+
+11.18.07
+- added lyrics for counting song for bitter children
+
+04.11.07
+- fixed typo in process of elimination: cashmir -> kashmir
+
+03.28.07
+- lyric fixes for this year and earth air water trees thanks to
+  runningdog and mrglass
+
+03.23.07
+- fixed html label for pink & blue
+
+03.17.07
+- added "covers" series to the database
+- added two headed boy + lyrics to database
+- added spoken part at the beginning of golden boy
+
+03.02.07
+- added images of the get lonely promo cd
+- added scans of for paper airplane pilots #5 interview to the wiki
+- added scans of puberty zine to the wiki (thanks to Christopher MacMurray)
+
+02.28.07
+- fixed john coltrain typo thanks to running dog
+
+02.27.07
+- added Rusell Hill's fabulous HaFG artwork
+- added image of SfP test pressing
+
+2.26.07
+- lyric fix for moon song
+
+02.25.07
+- added page and db entry for see america right single (7" / CD)
+- added the boys are back in town (thanks christopher macmurray)
+- added songs:
+  - song for mitch williams
+  - washing my face
+  - michael myers resplendent
+  - i will survive
+- got better get lonely artwork
+
+02.24.07
+- fixed broken AHWTX artwork
+- fixed sunset tree artwork
+- got better scans for bedroom recordings 1.2
+- got better scan for believer 2005
+- got better scans for taking the dative packaging
+- got better scan for comes with a smile vol 11.
+- fixed pic of JD in Howl comp
+- added pages and database entries for:
+  - babylon springs EP
+  - tallahassee sampler
+  - dilaudid EP
+  - believer 2004
+  - de avonden VPRO comp
+  - yoyo a gogo 1999
+  - like a version 2 comp
+  - down in a mirror (jandek tribute)
+  - gold kiss gala comp
+  - esopus #5
+  - palmcorder yajna single (7" / CD)
+- added lyrics and db entries for
+  - pretty in pink
+  - hallelujah
+  - from tg&y
+
+  - Thanks to Christopher MacMurray
+    - mummy's hand
+    - scavenger babies
+    - the plague
+    - deserters
+    - cut off their thumbs #1
+    - snakeheads
+    - attention all pickpockets
+    - nova scotia
+    - song for my stepfather
+    - porcile
+    - accentuate the positive
+    - nikki oh nikki
+    - new chevrolet in flames
+    - design your own container garden
+  - Thanks to Alex Glasnovic
+    - stable boy song
+    - all frosting
+    - butter teeth
+    - francois mitterand
+  - Thanks to Mike S.
+    - how I left the ministry
+    - accentuate the positive
+    - jim's head
+    - furry's blues
+    - wild amaranth
+    - going to/through pomona
+    - all devils here now
+
+02.23.07
+- added artwork for:
+  * dog so large i cannot see past it
+  * acuarela songs
+  * bitter melon farm
+  * ghana
+  * object lessons
+  * we'll sail out far... maybe a little too far
+  * tropical depression
+  * a munchies kinda xmas
+  * sub-pop 7"
+- added text from the back of tropical depression
+- uploaded song for god and warm lonely planet mp3s to the wiki
+- upgraded the wiki to the latest version
+
+02.20.07
+- lyrics fix for milk song, thanks to JD.
+
+10.25.06
+- lyric fix for the last limit of bjakti, thanks to rachel kelly. rock on.
+
+10.12.06
+- lyric fixes for in corolla, thanks to romain harvier
+
+10.05.06
+- lyric fix in going to michigan, thanks to david langley
+
+10.01.06
+- lyric fixes in collapsing stars and your or your memory, thanks to kirsten
+  hively
+
+09.26.06
+- lyric fixes in SBLS#8 thanks to corbin
+
+09.17.06
+- lyric fixes in scotch grove courtesy of JD
+
+09.08.06
+- fixed typo in lion's teeth thanks to adam goforth
+
+09.01.06
+- modified chords/tabs link on front page to point to the wiki
+
+08.27.06
+- completed GL lyrics and added those songs to the database
+
+07.20.06
+- fixed waco lyrics reference to george romero, thanks to mike russo
+
+07.13.06
+- fixed family happiness lyrics thanks to richie manis
+
+06.16.06
+- linked to get loney cover art from 4AD
+- more get lonely lyric transcriptions
+
+03.29.06
+- fixed points -> paw problem in lion's teeth lyrics thanks to chris
+  speck
+  
+02.20.06
+- fixed misspelled weeekend in discog dropdown. Thanks to logan berkness.
+
+01.21.06
+- fixed Taboo VI lyrics thanks to logan berkenss
+
+11.29.05
+- fixed spelling of verdi's name in SEPLiSC and also figured out the
+  singer is katia ricciarelli (mispronounced in the song)
+- merged "learning to breathe" and going to buffalo lyrics into
+  going to buffalo. removed "learning to breathe" from the database
+
+11.28.05
+- fixed CiV lyrics thanks to hannah schuyler
+
+11.27.05
+- added page for the 06/05 believer issue and lyrics for pet politics
+
+11.26.05
+- added link to mailing list from main page.
+- added lyrics for a bunch of songs and put them in the database
+  (* means i made up the title as JD doesn't remember it)
+  - going to some damned english city
+  - elizabeth barrett browning
+  - 25
+  - rivers of babylon
+  - in the cane fields
+  - going to france
+  - malted milk
+  - history of the church (part 1)
+  - slimy rich white bastards
+  - i meant every word i said in new delhi
+  - flower song
+  - something blue
+  - radical evil song
+  - pure crystal
+  - etiquette song
+  - standard bitter love song #1
+  - standard bitter love song #5
+  - standard bitter love song #6
+  - john 4:35*
+  - kittens in mittens*
+  - alpha compunction*
+  - learning to breathe*
+
+10.07.05
+- changed commandante lyrics from the ones i had on a live show to the
+  actual lyrics on Devil in the Shortwave. Thanks to Lisa Mertogul
+
+09.22.05
+- fixed song catalog link for waco lyrics -- thanks missy!
+
+09.21.05
+- added sunset lyrics and songs to the database
+- added come, come songs as well
+- lyric fixes to teenage world from robert botto
+
+04.10.05
+- lyric fixes on two thousand seasons from mike wallenstein
+
+10.25.04
+- some lyric fixes on "one winter at point alpha privative" thanks to 
+  daniel hopper
+
+10.14.04
+- added tabs
+  - see america right thanks to jacob mccartney
+
+10.13.04
+- added tabs
+  - WSABH thanks to aaron hook
+  - i've got the sex thanks to steve russell
+  - golden boy, color in your cheeks, when i get home, and shadow song thanks
+    to russ sweetser
+- lyric fix on love cuts the strings thanks to kyle olson
+
+10.12.04
+- new look! simple, classic white. stick to our strengths and just serve content.
+
+07.26.04
+- added durham armory date and 2 dates for the empty bottle in 10/2004 thanks
+  to miles liebtag. also a knitting show factory in 10/2004 thanks to michael
+  davidson
+
+07.25.04
+- finally fixed see america right lyrics re: a civilian saw me first, thanks 
+  to melissa, brian, and lisa powell
+- added comes with a smile #15 comp/zine to database w/ lyrics, etc
+
+07.22.04
+- fixed spelling of lame-o's name thanks to eric denman
+
+07.11.04
+- added the admonishing song to the database (don't know why it wasn't there)
+  thanks to miles liebtag for the catch
+- added a page for ghana (finally)
+- updated db such that all songs on ghana reflect that
+
+07.04.04
+- added page for bedroom recordings 1.2 and added soft targets to database
+  (thanks missy)
+
+05.11.04
+- added empty bottle show info on 05.04.04
+
+05.02.04
+- added lyrics for new world emerging blues
+
+05.01.04
+- added lyrics for peel session songs (dance music, tetrapod, broom people
+  and magpie) and put them in the DB.
+
+04.21.04
+- added west coasts dates from the 3BOS mailing list
+
+04.20.04
+- database/lyrics update: going to san diego, chilean fire barrel,
+  let the dogs come out, escape to wild palm city, high school confidential
+
+03.02.04
+- fixed dates on the front page thanks to daniel drucker
+
+02.29.04
+- fixed going to jamaica lyrics ("to your" -> "through your") thanks
+  to Ben Baker
+
+02.26.04
+- fixed london@ICA date to 03.31.04
+- fixed kansas venue to replay lounge
+
+02.23.04
+- added 02.29.04 bloomington date (oops, missed it the first time)
+
+02.11.04
+- added lyrics for Crows and Genesis 19:1-2 thanks to 
+  missy mazzaferro
+
+02.10.04
+- added tMG show PDFs from sujan and reworked the tour file hierarchy
+  a bit
+
+02.06.04
+- updated euro tour dates for march/april '04
+
+01.30.04
+- added march/april '04 european tour dates
+
+01.27.04
+- added info about JD being on Topsoil (WXDU)
+- added/updated feb/march '04 tour dates
+
+12.24.03
+- added an mp3 of "Stable Boy Song" thanks to roman meisterl
+
+12.13.03
+- added show from 11.11.03 into the database. thanks rhonda!
+
+12.06.03
+- added cover artwork on WSABH thanks to jeff aka fedge
+
+11.28.03
+- added tMG_constants for WSABH, tallhassee single, and WSABH single
+- added Palmcorder Yajna Single info from 4AD boards
+- removed SACRIFICE (ID=358) since it's a dupe of PALMCORDER YAJNA
+  also, fixed up the 10.15.00 setlist (and why can't i find that show in
+  my CD folder?)
+- added WSABH lyrics
+- fixed Hot Garden Stomp lyrics
+- added thanks to brian eck for lyrics stuff in thanks.html
+- added lyrics for jeff davis county blues and absolute lithops effect
+
+11.08.03
+- added tab for Source Decay thanks to Russ Sweetser
+
+10.06.03
+- added thanks entry for seth
+
+09.24.03
+- added bear creek photos thanks to JV
+
+09.16.03
+- updated tour dates with URLs for the clubs, capacities, prices, ages. 
+  removed walla walla show
+
+08.25.03
+- added created by vim graphic
+
+08.18.03
+- added West Coast tour dates
+
+06.30.03
+- added updated australian dates from showbag AT iinet DOT net DOT au
+
+06.22.03
+- added chords that people have sent me
+
+06.18.03
+- fixed lyrics for pure heat, thanks to
+  stewart martin (bittersenility AT punkass DOT com)
+
+05.21.03
+- added info for tMG/JV split 7"
+
+05.19.03
+- added paris flyer 
+- added orgy info for KVRX and WHRB
+
+04.15.03
+- added lifter puller tour date
+
+03.11.03
+- added SXSW day show
+- added lyrics to "riches and wonders" thanks to cruciphilia from LJ.
+
+03.06.03
+- added ticket link for the atlanta show
+
+03.04.03
+- added "Ya'll Know What Time It Is" '03 tour dates
+
+02.28.03
+- added rhino westwood show on 3/1/03
+
+-02.27.03
+- added a link for why make clocks re: the 4/18/03 show
+
+02.25.03
+- added 4/18 m-shop show
+
+02.21.03
+- added times for SXSW shows
+
+02.17.03
+- corrected macrock date and venue
+
+02.16.03
+- added SXSW and macrock shows
+
+01.30.03
+- added aversion interview
+
+01.24.03
+- added SF Noise Pop date
+
+01.22.03
+- fixed LA data (spaceland -> henry fonda theater)
+
+01.21.03
+- added BRS contest page
+- added 02.28.03 LA show
+
+01.09.03
+- added dates for the "Albert Ayler Meets Bruce Lee On The Set of 'Aida'" Tour '03
+
+01.08.03
+- added feb 9, 2003 tour date in nethrlands
+
+11.23.02
+- kevin ricker is the man. added chords for
+  - the bad doctor
+  - going to malibu
+  - billy the kid's dream of the magic shoes
+  - the monkey song
+  - raja vocative
+  - no, i can't.
+  - the sign
+  - anti-music song
+  - sun song
+  - going to japan
+  - beach house
+  - hello there howard
+  - seed song
+  - itzcuintli-totzli days
+  - the black ice cream song
+  - young caesar 2000
+  - grendel's mother
+  
+11.20.02
+- added chords for no children and going to bridlington (thanks to nathan
+  heskin)
+- added chords for ontario thanks to jay foad
+
+11.07.02
+- added tallahassee to database
+- cleaned up ahwtx stuff in database
+- added 10.23.02 show from bottom of the hill (thanks to brian eck)
+
+11.05.02
+- added tallahassee page and lyrics
+- cleaned up main page
+
+10.21.02
+- added neumu interviews on links page
+- added 4AD tMG page on links page
+- fixed perchance link (interview -> lengthier writeup)
+- added sonicenemy ireland pics to links page
+- added Norman, OK and SouthBend, IN tour dates
+- added the greatest guy, JV to band list links
+- changed toolbar "Mailing List" option to point to new list management system
+
+
