@@ -497,6 +497,7 @@ $IWILLSURVIVE                                 = 401;
 $TWOHEADEDBOY				      = 402;
 $THELASTMANONEARTH                            = 403;
 $TOOLSHED                                     = 404;
+$THEBIGUNIT                                   = 405;
 
 $HOTELROAD                                    = 500;
 $BADWAVES                                     = 501;
@@ -1293,6 +1294,7 @@ $TMG_TITLES[$IWILLSURVIVE]                                 = "I Will Survive";
 $TMG_TITLES[$TWOHEADEDBOY]                                 = "Two Headed Boy";
 $TMG_TITLES[$THELASTMANONEARTH]                            = "Last Man on Earth";
 $TMG_TITLES[$TOOLSHED]                                     = "Toolshed";
+$TMG_TITLES[$THEBIGUNIT]                                     = "The Big Unit";
 
 
 $TMG_TITLES[$UNKNOWN_SONG]                                 = "[UNKNOWN] Send info to nall";
