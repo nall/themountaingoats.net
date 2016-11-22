@@ -650,6 +650,24 @@ $MARDUKTSHIRTMENSROOMINCIDENT                 = 604;
 $SEPT15TH1983                                 = 605;
 $MICHAELMEYERSREPLENDENT                      = 606;
 
+# All Eternals Deck                           
+$DAMN_THESE_VAMPIRES                          = 607;
+$BIRTH_OF_SERPENTS                            = 608;
+$ESTATE_SALE_SIGN                             = 609;
+$AGE_OF_KINGS                                 = 610;
+$THE_AUTOPSY_GARLAND                          = 611;
+$BEAUTIFUL_GAS_MASK                           = 612;
+$HIGH_HAWK_SEASON                             = 613;
+$PROWL_GREAT_CAIN                             = 614;
+$SOURDOIRE_VALLEY_SONG                        = 615;
+$OUTER_SCORPION_SQUADRON                      = 616;
+$FOR_CHARLES_BRONSON                          = 617;
+$NEVER_QUITE_FREE                             = 618;
+$LIZA_FOREVER_MINNELLI                        = 619;
+
+
+
+
 ################
 # extra glenns #
 ################
@@ -1148,6 +1166,20 @@ $TMG_TITLES[$MARDUKTSHIRTMENSROOMINCIDENT]                 = "Marduk T-Shirt Men
 $TMG_TITLES[$SEPT15TH1983]                                 = "Sept 15th 1983";
 $TMG_TITLES[$MICHAELMEYERSREPLENDENT]                      = "Michael Myers Resplendent";
 
+# All Eternals Deck
+$TMG_TITLES[$DAMN_THESE_VAMPIRES]                          = "Damn These Vampires";
+$TMG_TITLES[$BIRTH_OF_SERPENTS]                            = "Birth of Serpents";
+$TMG_TITLES[$ESTATE_SALE_SIGN]                             = "Estate Sale Sign";
+$TMG_TITLES[$AGE_OF_KINGS]                                 = "Age of Kings";
+$TMG_TITLES[$THE_AUTOPSY_GARLAND]                          = "The Autopsy Garland";
+$TMG_TITLES[$BEAUTIFUL_GAS_MASK]                           = "Beautiful Gas Mask";
+$TMG_TITLES[$HIGH_HAWK_SEASON]                             = "High Hawk Season";
+$TMG_TITLES[$PROWL_GREAT_CAIN]                             = "Prowl Great Cain";
+$TMG_TITLES[$SOURDOIRE_VALLEY_SONG]                        = "Sourdoire Valley Song";
+$TMG_TITLES[$OUTER_SCORPION_SQUADRON]                      = "Outer Scorpion Squadron";
+$TMG_TITLES[$FOR_CHARLES_BRONSON]                          = "For Charles Bronson";
+$TMG_TITLES[$NEVER_QUITE_FREE]                             = "Never Quite Free";
+$TMG_TITLES[$LIZA_FOREVER_MINNELLI]                        = "Liza Forever Minnelli';
 
 ##############
 #   comps    #
